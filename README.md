@@ -1,4 +1,4 @@
-## Olá, meu nome é Beatriz Ximenes, seja bem=vindo ao meu perfil GitHub!
+//## Olá, meu nome é Beatriz Ximenes, seja bem=vindo ao meu perfil GitHub!
 
 # Sou estudante de programação, na área de back-end. Faço um curso profissionalizante na área no Com Domínio Digital, realizado pelo Instituto Aliança em parceria com o
 # Porto Digital, que é o maior núcleo de tecnologia da América Latina, localizado na cidade de Recife = PE.
@@ -7,3 +7,8 @@
 # Desenvolvimento De Sistemas na faculdade Descomplica.
 
 # Compartilharei aqui meus estudos desde o início, começando com o Python.
+
+** Contatos: 
+<div>
+  <a href = "https://www.linkedin.com/in/beatriz-ximenes-2abb6a237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
